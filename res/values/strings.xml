@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">apkinstaller</string>
+    <string name="hello_world"></string>
+    <string name="menu_settings"></string>
+    <string name="path">/sdcard/</string>
+
+</resources> <!-- Copyright (c) 2015 YA <ya.androidapp@gmail.com> All rights reserved. -->
